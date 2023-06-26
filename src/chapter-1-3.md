@@ -3,7 +3,7 @@ The Role of ChatGPT in Improving Lead Generation and Brand Awareness
 
 In recent years, AI-powered chatbots have become increasingly popular among businesses looking to improve their lead generation and brand awareness efforts. These chatbots use natural language processing (NLP) and machine learning algorithms to provide personalized experiences to potential customers at scale.
 
-One such chatbot is ChatGPT, which is based on the popular GPT-3 language model and has been developed specifically for marketing applications. ChatGPT can understand and respond to natural language queries and provide tailored solutions to potential customers, making it an effective tool for improving lead generation and brand awareness.
+One such chatbot is ChatGPT, which is based on the popular GPT-3.5 language model and has been developed specifically for marketing applications. ChatGPT can understand and respond to natural language queries and provide tailored solutions to potential customers, making it an effective tool for improving lead generation and brand awareness.
 
 Benefits of Using ChatGPT for Marketers
 ---------------------------------------
