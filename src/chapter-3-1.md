@@ -1,5 +1,4 @@
-Factors Affecting Lead Generation and Brand Awareness
-===================================================================================================================
+
 
 In this chapter, we will explore the factors that can affect lead generation and brand awareness for marketers.
 

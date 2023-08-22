@@ -1,5 +1,4 @@
-Chapter 3: The Role of AI and Chatbots in Marketing
-===================================================
+
 
 In this chapter, we will explore the role of AI and chatbots in marketing, how they can improve lead generation and brand awareness, and the benefits of using them for marketers.
 
