@@ -1,5 +1,4 @@
 
-
 In recent years, the use of chatbots has become increasingly popular in marketing. One such chatbot that has gained a lot of attention is ChatGPT. But what exactly is ChatGPT?
 
 Definition
