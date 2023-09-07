@@ -12,3 +12,7 @@ Throughout the book, we will provide real-world examples of businesses that have
 In conclusion, this book provides a comprehensive guide for marketers looking to implement ChatGPT-powered chatbots to improve lead generation and brand awareness. By following the strategies outlined in this book, businesses can create more engaging and personalized experiences for their customers, driving more leads and ultimately increasing sales.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
