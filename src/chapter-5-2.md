@@ -1,5 +1,4 @@
-Chapter 8: Features and Capabilities of ChatGPT
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the features and capabilities of ChatGPT that make it a powerful tool for marketers. ChatGPT, built on OpenAI's GPT-3.5 model, offers a wide range of functionalities that can significantly enhance lead generation and brand awareness efforts.
 

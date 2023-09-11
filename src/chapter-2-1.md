@@ -1,5 +1,4 @@
-Chapter 4: Definition of Lead Generation and Brand Awareness
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide definitions for two essential concepts in marketing: lead generation and brand awareness. Understanding these terms is crucial for grasping the impact that chatbots can have on these aspects of marketing strategies.
 

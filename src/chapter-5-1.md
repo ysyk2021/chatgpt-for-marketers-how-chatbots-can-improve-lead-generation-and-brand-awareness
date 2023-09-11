@@ -1,5 +1,4 @@
-Chapter 1: What is ChatGPT?
-===========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide an introduction to ChatGPT and highlight its significance in the field of marketing. ChatGPT is a chatbot built on the GPT-3.5 model developed by OpenAI. It is a cutting-edge conversational AI tool that can interact with users in a human-like manner, understand their queries, and respond with meaningful and accurate answers.
 

@@ -1,5 +1,4 @@
-Chapter 6: Different Types of Marketing Strategies
-==================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore various types of marketing strategies that businesses can employ to enhance lead generation and brand awareness. Understanding these different approaches is crucial for harnessing the power of chatbots effectively and integrating them into a comprehensive marketing strategy.
 

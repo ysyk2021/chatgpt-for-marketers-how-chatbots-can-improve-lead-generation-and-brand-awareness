@@ -1,5 +1,4 @@
-Chapter 6: Factors Affecting Lead Generation and Brand Awareness
-================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the key factors that can significantly impact lead generation efforts and brand awareness when utilizing ChatGPT-powered chatbots. Understanding these factors is crucial for marketers to optimize their strategies and achieve desired outcomes in terms of generating leads and enhancing brand visibility.
 

@@ -1,5 +1,4 @@
-Chapter 1: Introduction to AI and Chatbots
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide an introduction to artificial intelligence (AI) and chatbots, exploring their applications in the marketing industry. AI-powered chatbots have become valuable tools for improving lead generation and brand awareness. By understanding the basics of AI and chatbot technology, marketers can leverage these tools effectively to enhance customer engagement and drive business growth.
 
